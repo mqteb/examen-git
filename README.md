@@ -1,0 +1,1 @@
+Este es un archivo README sobre el examen del dia de hoy.
